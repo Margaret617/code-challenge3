@@ -1,0 +1,13 @@
+table{
+    width: 1000px;
+    margin: 30px auto;
+}
+tr , th{
+    padding: 10px 0;
+    background-color:aliceblue;
+    border: thin solid;
+}
+
+table img{
+    width: 70%;
+}
