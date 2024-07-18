@@ -11,3 +11,21 @@ tr , th{
 table img{
     width: 70%;
 }
+
+body{
+    background-color:powderblue;
+}
+
+div{
+    background-color: bisque;
+    
+}
+
+th , tr{
+    background-color: lightskyblue;
+}
+
+.buy-ticket-btn:hover{
+    opacity: 0.6;
+    background-color: aqua;
+}
